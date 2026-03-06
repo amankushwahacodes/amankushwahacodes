@@ -60,11 +60,14 @@ Currently exploring ways to combine backend development with AI and automation t
 </p>    
 
 <p align="center">
+<a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/🌐%20Website-000000?style=flat" />
+  </a>
   <a href="https://www.linkedin.com/in/amankushwahacodes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:amankuswahacodes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+   <a href="https://mail.google.com/mail/?view=cm&to=amankuswahacodes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
