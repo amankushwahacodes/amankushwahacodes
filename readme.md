@@ -1,6 +1,12 @@
+<h1 align="center"><a href="https://github.com/amankushwahacodes"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=808080&center=true&width=435&lines=Hi,+I'm+Aman+Kushwaha;Full+Stack+Developer;Exploring+Automation" alt="Typing SVG" /></a> </h1>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=808080&center=true&vCenter=true&width=600&lines=Hi,+I'm+Aman+Kushwaha;Full+Stack+Developer;Exploring Automation" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=flat" />
+  </a>
 </p>
+
 
 ---
 
@@ -30,8 +36,8 @@ Currently exploring ways to combine backend development with AI and automation t
 
 | Project | Description | Tech | Demo |
 |--------|-------------|------|------|
-| **[AI Resume Builder](https://github.com/amankushwahacodes/ai-resume-builder)** | AI-powered web app that generates structured resumes based on user input and job requirements | React, Node.js, MongoDB OpenAI API | [Live](https://airesumebuilderapp.vercel.app/) 
-| **[ Job Application Tracker](https://github.com/amankushwahacodes/ai-job-application-tracker)** | Automation workflow that reads job emails, extracts job details using AI, and stores structured data in Notion | n8n, OpenAI API, Gmail API, Notion API | [Demo](https://github.com/amankushwahacodes/AI-JobApplicationTracker) |
+| **[AI Resume Builder](https://github.com/amankushwahacodes/resumebuilder)** | AI-powered web app that generates structured resumes based on user input and job requirements | React, Node.js, MongoDB OpenAI API | [Live](https://airesumebuilderapp.vercel.app/) 
+| **[ Job Application Tracker](https://github.com/amankushwahacodes/AI-JobApplicationTracker)** | Automation workflow that reads job emails, extracts job details using AI, and stores structured data in Notion | n8n, OpenAI API, Gmail API, Notion API | [Demo](https://github.com/amankushwahacodes/AI-JobApplicationTracker) |
 | **[Lodgic](https://github.com/amankushwahacodes/lodgic)** | Booking and operations management system for lodging businesses with authentication, dashboards, and real-time data updates | React, Supabase, React Query | [Live](https://lodgic-app.netlify.app/) |
 | **[Natours](https://github.com/amankushwahacodes/natours)** | Backend-focused application with authentication, REST APIs, and MongoDB database following MVC architecture | Node.js, Express, MongoDB | [Live](https://natours-5fkg.onrender.com/) |
 
@@ -61,3 +67,7 @@ Currently exploring ways to combine backend development with AI and automation t
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+ If you find my projects interesting, feel free to explore the repositories.
