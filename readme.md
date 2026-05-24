@@ -36,8 +36,8 @@ Currently exploring ways to combine backend development with AI and automation t
 
 | Project | Description | Tech | Demo |
 |--------|-------------|------|------|
-| **[AI Resume Builder](https://github.com/amankushwahacodes/resumebuilder)** | AI-powered web app that generates structured resumes based on user input and job requirements | React, Node.js, MongoDB OpenAI API | [Live](https://airesumebuilderapp.vercel.app/) 
 | **[Lodgic - Customer Booking Platform](https://github.com/amankushwahacodes/lodgic-customer)** | Full-stack customer-facing cabin booking platform with secure authentication, cabin exploration, reservation management, and date-based booking workflows | Next.js, React, Supabase, Tailwind CSS, Auth.js | [Live](https://lodgic-customer.vercel.app/) |
+| **[AI Resume Builder](https://github.com/amankushwahacodes/resumebuilder)** | AI-powered web app that generates structured resumes based on user input and job requirements | React, Node.js, MongoDB OpenAI API | [Live](https://airesumebuilderapp.vercel.app/) 
 | **[Lodgic](https://github.com/amankushwahacodes/lodgic)** | Booking and operations management system for lodging businesses with authentication, dashboards, and real-time data updates | React, Supabase, React Query | [Live](https://lodgic-app.netlify.app/) |
 | **[Natours](https://github.com/amankushwahacodes/natours)** | Backend-focused application with authentication, REST APIs, and MongoDB database following MVC architecture | Node.js, Express, MongoDB | [Live](https://natours-5fkg.onrender.com/) |
 
