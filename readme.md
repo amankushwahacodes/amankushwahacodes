@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
+  <a href="https://portfolio-amankushwaha.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=flat" />
   </a>
 </p>
@@ -14,9 +14,9 @@
 
 I'm Aman, a third-year Computer Science student at Uka Tarsadia University.
 
-I enjoy building full-stack applications and automation tools that solve real problems. Most of my work focuses on JavaScript, backend systems, and workflow automation.
+I enjoy building full-stack applications and solving real-world problems through software. My experience includes developing customer-facing web applications, backend systems, and automation workflows using modern JavaScript technologies.
 
-Currently exploring ways to combine backend development with AI and automation tools.
+Currently focused on expanding my skills in full-stack development, scalable system design, and AI-powered applications.
 
 ---
 
